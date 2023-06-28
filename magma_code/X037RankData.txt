@@ -1,121 +1,121 @@
 -97: 2, 0, 2, easy: E2 has rank 0
--95: 3, 1, 4, QC
+-95: 3, 1, 4, QCNF
 -94: 2, 0, 2, easy: E2 has rank 0
 -93: 2, 0, 2, easy: E2 has rank 0
 -91: 2, 0, 2, easy: E2 has rank 0
 -89: 2, 0, 2, easy: E2 has rank 0
--87: 2, 2, 4, QC
--86: 3, 1, 4, QC
--85: 1, 1, 2, CC
--83: 1, 1, 2, CC
+-87: 2, 2, 4, QCNF
+-86: 3, 1, 4, QCNF
+-85: 1, 1, 2, QCI
+-83: 1, 1, 2, QCI
 -82: 2, 0, 2, easy: E2 has rank 0
 -79: 2, 0, 2, easy: E2 has rank 0
--78: 1, 1, 2, CC
--77: 1, 1, 2, CC
+-78: 1, 1, 2, QCI
+-77: 1, 1, 2, QCI
 -74: 3, 0, 3, easy: E2 has rank 0
--73: 1, 1, 2, CC
--71: 1, 1, 2, CC
--70: 1, 1, 2, CC
+-73: 1, 1, 2, QCI
+-71: 1, 1, 2, QCI
+-70: 1, 1, 2, QCI
 -69: 2, 0, 2, easy: E2 has rank 0
--67: 1, 1, 2, CC
+-67: 1, 1, 2, QCI
 -66: 2, 0, 2, easy: E2 has rank 0
--65: 1, 1, 2, CC
--62: 3, 1, 4, QC
--61: 2, 2, 4, QC
--59: 2, 2, 4, QC
--58: 1, 1, 2, CC
+-65: 1, 1, 2, QCI
+-62: 3, 1, 4, QCNF
+-61: 2, 2, 4, QCNF
+-59: 2, 2, 4, QCNF
+-58: 1, 1, 2, QCI
 -57: 2, 0, 2, easy: E2 has rank 0
 -55: 2, 0, 2, easy: E2 has rank 0
--53: 1, 1, 2, CC
+-53: 1, 1, 2, QCI
 -51: 2, 0, 2, easy: E2 has rank 0
--47: 1, 1, 2, CC
--46: 3, 1, 4, QC
+-47: 1, 1, 2, QCI
+-46: 3, 1, 4, QCNF
 -43: 2, 0, 2, easy: E2 has rank 0
 -42: 2, 0, 2, easy: E2 has rank 0
--41: 1, 1, 2, CC
+-41: 1, 1, 2, QCI
 -39: 2, 0, 2, easy: E2 has rank 0
--38: 1, 1, 2, CC
+-38: 1, 1, 2, QCI
 -37: 1, 0, 1, easy: E2 has rank 0
 -35: 2, 0, 2, easy: E2 has rank 0
--34: 1, 1, 2, CC
--33: 1, 1, 2, CC
--31: 2, 2, 4, QC
--30: 1, 1, 2, CC
--29: 2, 2, 4, QC
--26: 3, 1, 4, QC
--23: 2, 2, 4, QC
+-34: 1, 1, 2, QCI
+-33: 1, 1, 2, QCI
+-31: 2, 2, 4, QCNF
+-30: 1, 1, 2, QCI
+-29: 2, 2, 4, QCNF
+-26: 3, 1, 4, QCNF
+-23: 2, 2, 4, QCNF
 -22: 2, 0, 2, easy: E2 has rank 0
--21: 1, 1, 2, CC
+-21: 1, 1, 2, QCI
 -19: 2, 0, 2, easy: E2 has rank 0
 -17: 2, 0, 2, easy: E2 has rank 0
 -15: 2, 0, 2, easy: E2 has rank 0
 -14: 2, 0, 2, easy: E2 has rank 0
 -13: 2, 0, 2, easy: E2 has rank 0
--11: 1, 1, 2, CC
--10: 1, 1, 2, CC
--7: 1, 1, 2, CC
+-11: 1, 1, 2, QCI
+-10: 1, 1, 2, QCI
+-7: 1, 1, 2, QCI
 -6: 2, 0, 2, easy: E2 has rank 0
 -5: 2, 0, 2, easy: E2 has rank 0
--3: 1, 1, 2, CC
+-3: 1, 1, 2, QCI
 -2: 2, 0, 2, easy: E2 has rank 0
--1: 1, 1, 2, CC
-2: 1, 1, 2, CC
+-1: 1, 1, 2, QCI
+2: 1, 1, 2, QCI
 3: 2, 0, 2, easy: E2 has rank 0
-5: 1, 1, 2, CC
-6: 1, 1, 2, CC
+5: 1, 1, 2, QCI
+6: 1, 1, 2, QCI
 7: 2, 0, 2, easy: E2 has rank 0
-10: 2, 2, 4, QC
+10: 2, 2, 4, QCNF
 11: 2, 0, 2, easy: E2 has rank 0
-13: 1, 1, 2, CC
-14: 1, 1, 2, CC
-15: 1, 1, 2, CC
-17: 1, 1, 2, CC
-19: 1, 1, 2, CC
+13: 1, 1, 2, QCI
+14: 1, 1, 2, QCI
+15: 1, 1, 2, QCI
+17: 1, 1, 2, QCI
+19: 1, 1, 2, QCI
 21: 2, 0, 2, easy: E2 has rank 0
-22: 1, 1, 2, CC
-23: 1, 1, 2, CC
+22: 1, 1, 2, QCI
+23: 1, 1, 2, QCI
 26: 2, 0, 2, easy: E2 has rank 0
-29: 1, 1, 2, CC
-30: 2, 2, 4, QC
-31: 3, 1, 4, QC
+29: 1, 1, 2, QCI
+30: 2, 2, 4, QCNF
+31: 3, 1, 4, QCNF
 33: 2, 0, 2, easy: E2 has rank 0
 34: 2, 0, 2, easy: E2 has rank 0
-35: 1, 1, 2, CC
-37: 2, 1, 3, CC
-38: 2, 2, 4, QC
-39: 1, 1, 2, CC
+35: 1, 1, 2, QCI
+37: 2, 1, 3, QCNF
+38: 2, 2, 4, QCNF
+39: 1, 1, 2, QCI
 41: 2, 0, 2, easy: E2 has rank 0
-42: 1, 1, 2, CC
-43: 1, 1, 2, CC
-46: 2, 2, 4, QC
+42: 1, 1, 2, QCI
+43: 1, 1, 2, QCI
+46: 2, 2, 4, QCNF
 47: 2, 0, 2, easy: E2 has rank 0
-51: 1, 1, 2, CC
+51: 1, 1, 2, QCI
 53: 2, 0, 2, easy: E2 has rank 0
-55: 1, 1, 2, CC
-57: 1, 1, 2, CC
+55: 1, 1, 2, QCI
+57: 1, 1, 2, QCI
 58: 2, 0, 2, easy: E2 has rank 0
-59: 1, 1, 2, CC
-61: 3, 1, 4, QC
-62: 2, 2, 4, QC
-65: 2, 2, 4, QC
-66: 1, 1, 2, CC
+59: 1, 1, 2, QCI
+61: 3, 1, 4, QCNF
+62: 2, 2, 4, QCNF
+65: 2, 2, 4, QCNF
+66: 1, 1, 2, QCI
 67: 2, 0, 2, easy: E2 has rank 0
-69: 3, 1, 4, QC
+69: 3, 1, 4, QCNF
 70: 2, 0, 2, easy: E2 has rank 0
 71: 2, 0, 2, easy: E2 has rank 0
 73: 2, 0, 2, easy: E2 has rank 0
-74: 2, 1, 3, CC
+74: 2, 1, 3, QCNF
 77: 2, 0, 2, easy: E2 has rank 0
 78: 2, 0, 2, easy: E2 has rank 0
-79: 1, 1, 2, CC
-82: 1, 1, 2, CC
+79: 1, 1, 2, QCI
+82: 1, 1, 2, QCI
 83: 2, 0, 2, easy: E2 has rank 0
 85: 2, 0, 2, easy: E2 has rank 0
 86: 2, 0, 2, easy: E2 has rank 0
-87: 1, 1, 2, CC
-89: 1, 1, 2, CC
-91: 1, 1, 2, CC
-93: 1, 1, 2, CC
-94: 1, 1, 2, CC
+87: 1, 1, 2, QCI
+89: 1, 1, 2, QCI
+91: 1, 1, 2, QCI
+93: 1, 1, 2, QCI
+94: 1, 1, 2, QCI
 95: 2, 0, 2, easy: E2 has rank 0
-97: 3, 1, 4, QC
+97: 3, 1, 4, QCNF

@@ -17,10 +17,10 @@ function Verdict(RankE1Tot, RankE2Tot)
     RankTotal := RankE1Tot + RankE2Tot;
     if RankE2Tot eq 0 then
         return "easy: E2 has rank 0";
-    elif RankTotal le 3 then
-        return "CC";
-    elif RankTotal eq 4 then
-        return "QC";
+    elif RankTotal eq 2 then
+        return "QCI";
+    elif RankTotal le 4 then
+        return "QCNF";
     else
         return "TBD";
     end if;
